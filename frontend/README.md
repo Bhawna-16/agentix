@@ -4,6 +4,9 @@
 
 Built using the **MERN Stack**, Agentix integrates multiple Large Language Models (LLMs) and AI services to deliver an interactive, scalable, and efficient AI-powered experience.
 
+### Dashboard
+![Agentix Dashboard](./images/dashboard.png)
+
 ---
 
 ## 🚀 Features
